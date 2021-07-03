@@ -5,11 +5,18 @@ Título do projeto: Blg Conhecimento é Poder
 Autor: Amanda Oliveira
 
 Justificativa:  Disseminar conhecimento
+
 Objetivo:  O blog tem por iniciativa justar sites oficiais para auxilio e orientação no desenvolvimento de software.  
+
 Orientações de uso: 
+
     inicio: Páginas estaticas, apresentação Blog.
+    
     Aprender:  Ferramentas Dev.
+    
     Sobre:  Objetivos do blog.
+    
     Contato: Canal de comunicação
+    
     
 Dev: Amanda Oliveira -  03/07/2021
